@@ -50,9 +50,9 @@ unsafe) languages as of the date this is posted are:
 
 **What types of contributions qualify?** At this moment we recognize two types of contributions:
 
-- Add bindings making the library usable from Rust or Swift (e.g., adding
+- Add bindings making the library usable from **Rust or Swift** (e.g., adding
   official Swift bindings to an image parsing library)
-- Partially (or completely) migrate the project to a memory-safe language
+- Partially (or completely) **migrate the project** to a memory-safe language
   (e.g., convert one of the decoder/encoders in an image parsing library to
   Rust)
 
